@@ -1,38 +1,43 @@
 # Salva Navarro
 
-Enterprise PKI Architect based in Spain.
+Arquitecto PKI enterprise y creador de la linea de herramientas `SnPKITools`.
 
-I design trust platforms that stay secure and operable under real pressure: scale, audits, migrations, and cryptographic change.
+Diseno plataformas de confianza, gobierno del ciclo de vida del certificado, controles operativos y tooling tecnico para entornos exigentes: auditorias, migraciones, automatizacion y cambio criptografico.
 
-## What I Build
+## Foco principal
 
-- Enterprise PKI architectures for hybrid environments.
-- Multi-tier Microsoft ADCS designs with hardening-first criteria.
-- Certificate lifecycle governance and operational controls.
-- Cryptographic policy frameworks aligned to business risk.
-- Zero Trust PKI integration patterns.
-- Post-quantum transition readiness roadmaps.
+- arquitectura PKI para entornos enterprise e hibridos
+- gobierno y operacion del ciclo de vida del certificado
+- automatizacion, inventario y controles tecnicos
+- contenido tecnico, documentacion y tooling especializado
 
-## Active Portfolio
+## Ecosistema SnPKITools
 
-- Professional site: https://salva-navarro.github.io
-- Architecture hub: https://github.com/salva-navarro/enterprise-pki-architecture-principles
-- Spanish architecture repo: https://github.com/salva-navarro/arquitectura-pki-empresarial
-- Tooling hub: https://github.com/salva-navarro/Tools-Hub
-- Practical toolkit: https://github.com/salva-navarro/certops-toolkit
+Hub maestro del portfolio:
 
-## Brand Identity
+- `https://github.com/salva-navarro/snpkitools-hub`
 
-All my projects follow a unified visual identity. Assets, color tokens, logos and design guidelines are publicly hosted and reusable:
+Repositorios principales del ecosistema:
 
-- Brand kit: https://salva-navarro.github.io/brand-kit/
-- Primary color: `#2F4F9F` · Secondary: `#D4A017`
-- Logo SVG (CDN): `https://salva-navarro.github.io/brand-kit/01_LOGO_VARIATIONS/style_modern/logo_001.svg`
-- Color tokens (JSON): `https://salva-navarro.github.io/brand-kit/02_COLOR_PALETTES/palette_01_primary.json`
+- `snpkitools-book-factory`
+- `snpkitools-certops-control-center`
+- `snpkitools-pkiworkbench`
+- `snpkitools-tech-os`
+- `snpkitools-content-studio`
+- `snpkitools-smart-command-suite`
 
-## Engineering Track
+## Repositorios publicos recomendados
 
-My public architecture work is backed by practical tooling projects focused on certificate operations, controls, and PKI automation patterns.
+- Web profesional: `https://github.com/salva-navarro/salva-navarro.github.io`
+- Arquitectura PKI enterprise: `https://github.com/salva-navarro/enterprise-pki-architecture-principles`
+- Arquitectura PKI empresarial en castellano: `https://github.com/salva-navarro/arquitectura-pki-empresarial`
 
-If you need to evolve or harden a PKI platform, start here:
-https://salva-navarro.github.io
+## Presencia y marca
+
+- Sitio profesional: `https://salva-navarro.github.io`
+- Hub SnPKITools: `https://github.com/salva-navarro/snpkitools-hub`
+- Identidad visual unificada en todas las herramientas del portfolio
+
+## Enfoque de trabajo
+
+Me interesa construir herramientas y contenido que sirvan de verdad en operacion real: menos maqueta, mas trazabilidad, mas criterio tecnico y mas capacidad de ejecucion.
