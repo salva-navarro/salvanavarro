@@ -1,43 +1,48 @@
-# Salva Navarro
+## Salvador Navarro · PKI Architect
 
-Arquitecto PKI enterprise y creador de la linea de herramientas `SnPKITools`.
+PKI empresarial, gestión de identidad y diseño de infraestructuras de confianza.  
+Fundador de **SnPKI Tech** · Feb 2026 · España
 
-Diseno plataformas de confianza, gobierno del ciclo de vida del certificado, controles operativos y tooling tecnico para entornos exigentes: auditorias, migraciones, automatizacion y cambio criptografico.
+---
 
-## Foco principal
+**Especialidades**
 
-- arquitectura PKI para entornos enterprise e hibridos
-- gobierno y operacion del ciclo de vida del certificado
-- automatizacion, inventario y controles tecnicos
-- contenido tecnico, documentacion y tooling especializado
+`PKI Lifecycle Management` · `Windows CNG / DPAPI` · `SailPoint IGA`  
+`Certificados electrónicos` · `Plataformas multi-tenant` · `Identity Security`
 
-## Ecosistema SnPKITools
+---
 
-Hub maestro del portfolio:
+**En activo**
 
-- `https://github.com/salva-navarro/snpkitools-hub`
+| Producto | Descripción | Estado |
+|---|---|---|
+| [IdentiCert Suite](https://github.com/salva-navarro/snpki-identicert-suite) | Plataforma PKI completa — backend .NET, agente Windows, portal React | 🔧 Desarrollo |
+| [CertOps Toolkit](https://github.com/salva-navarro/certops-toolkit) | CLI Python para operaciones con certificados TLS/X.509 | ✅ Público |
+| [SNP DrumPad](https://github.com/salva-navarro/snp-drumpad) | Pad de plantillas rápidas para soporte · WPF + MSI | ✅ Público |
 
-Repositorios principales del ecosistema:
+---
 
-- `snpkitools-book-factory`
-- `snpkitools-certops-control-center`
-- `snpkitools-pkiworkbench`
-- `snpkitools-tech-os`
-- `snpkitools-content-studio`
-- `snpkitools-smart-command-suite`
+**Stack**
 
-## Repositorios publicos recomendados
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 
-- Web profesional: `https://github.com/salva-navarro/salva-navarro.github.io`
-- Arquitectura PKI enterprise: `https://github.com/salva-navarro/enterprise-pki-architecture-principles`
-- Arquitectura PKI empresarial en castellano: `https://github.com/salva-navarro/arquitectura-pki-empresarial`
+---
 
-## Presencia y marca
+**Certificaciones**
 
-- Sitio profesional: `https://salva-navarro.github.io`
-- Hub SnPKITools: `https://github.com/salva-navarro/snpkitools-hub`
-- Identidad visual unificada en todas las herramientas del portfolio
+- SailPoint Certified IdentityNow Expert · SailPoint
+- SailPoint Certified IdentityNow Leader · SailPoint
+- Oracle Cloud Infrastructure 2024 AI Foundations · Oracle
+- SFPC — Scrum Foundation Professional · CertiProf
 
-## Enfoque de trabajo
+---
 
-Me interesa construir herramientas y contenido que sirvan de verdad en operacion real: menos maqueta, mas trazabilidad, mas criterio tecnico y mas capacidad de ejecucion.
+**Contacto**
+
+🌐 [salva-navarro.github.io](https://salva-navarro.github.io)  
+💼 [linkedin.com/in/salvadornavarropardo](https://linkedin.com/in/salvadornavarropardo)
